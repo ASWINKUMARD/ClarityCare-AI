@@ -49,3 +49,9 @@ ClarityCare AI is a Generative AI–powered Mental Health Chatbot that uses RAG 
 🌍 Multilingual support
 
 🤝 Integration with therapists and telehealth services
+
+  ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
